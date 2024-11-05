@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.bgOrange {
+    background-color: orange;
+}
+
+.bgBlack {
+    background-color: black;
+}
+
+.bgSection {
+    background-color: rgb(228, 183, 115);
+}
+
+
+.colorOrange {
+    color: orange;
+}
+
+.colorBlack {
+    color: black;
+}
+
+.colorWhite {
+    color: white;
+}
+

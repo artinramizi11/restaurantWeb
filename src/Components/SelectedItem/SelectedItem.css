@@ -1,0 +1,45 @@
+.item {
+    display: flex;
+    gap: 20px;
+}
+
+.text {
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.item img {
+    width: 500px;
+}
+
+.item span {
+    color: orange;
+}
+
+.btns {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.btns button {
+    padding: 10px;
+    background-color: orange;
+    color: black;
+    width: 250px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btns button:hover {
+    background-color: black;
+    color: white;
+}
+
+.btns select {
+    border-color: orange;
+    padding: 5px;
+}

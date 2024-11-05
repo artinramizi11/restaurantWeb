@@ -1,0 +1,10 @@
+.input input::placeholder {
+    color: orange;
+}
+
+.input input {
+    border: none;
+    border: 1px solid orange;
+    width: 30%;
+    margin-top: 10px;
+}
